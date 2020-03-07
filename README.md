@@ -15,6 +15,16 @@ A use case is provided in test that describes how a message is encrypted, passed
  - RSA encryption
  - RSA decryption
 
+## How this Project Works
+
+1.) You must run App.java to generate both the AES key and RSA private and public keys.
+
+2.) Refresh your project and key files should be generated in its root.
+
+3.) Copy both the rsa_public and rsa_private into your src/test/resources directory.
+
+4.) Run mvn clean test
+
 ## Repositories
 
  - https://github.com/crypto-util
