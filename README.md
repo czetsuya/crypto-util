@@ -24,10 +24,6 @@ A use case is provided in test that describes how a message is encrypted, passed
 3.) Copy both the rsa_public and rsa_private into your src/test/resources directory.
 
 4.) Run mvn clean test
-
-## Repositories
-
- - https://github.com/crypto-util
  
 ## Authors
 
