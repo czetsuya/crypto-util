@@ -1,5 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 # Crypto Utility Project
 
 This project contains encryption and decryption utility classes that suppors both AES and RSA algorithm. 
