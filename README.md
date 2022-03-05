@@ -17,9 +17,9 @@ A use case is provided in test that describes how a message is encrypted, passed
 
 ## How this Project Works
 
-1.) You must run App.java to generate both the AES key and RSA private and public keys.
+1.) Run App.java to generate both the AES key and RSA private & public key files.
 
-2.) Refresh your project and key files should be generated in its root.
+2.) The key files should be generated in the project root. Thus, refresh your project to make them visible.
 
 3.) Copy both the rsa_public and rsa_private into your src/test/resources directory.
 
