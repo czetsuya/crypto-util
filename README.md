@@ -1,5 +1,3 @@
-*If you would like to support these tutorials, you can contribute to my [Patreon account](https://patreon.com/czetsuya)
-
 # Crypto Utility Project
 
 This project contains encryption and decryption utility classes that suppors both AES and RSA algorithm. 
